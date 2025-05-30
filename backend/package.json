@@ -1,0 +1,16 @@
+
+{
+  "name": "weatherapp-backend",
+  "version": "0.0.1",
+  "description": "Weatherapp exercise backend",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^10.0.0",
+    "kcors": "^2.2.2",
+    "node-fetch": "^2.6.1",
+    "debug": "^4.3.1"
+  }
+}
